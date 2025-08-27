@@ -1,5 +1,0 @@
-primerro arquivo
-
-segundo comit
-
-terceiro commit no git
